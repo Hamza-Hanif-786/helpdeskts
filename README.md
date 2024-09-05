@@ -10,7 +10,7 @@ This project is created on Nextjs-14 and Flow-bite-react.
 
 
 
-# Hi, I'm Muhammad Hamza Hanif from TeamX Pakistan! 👋
+# Hi, I'm Muhammad Hamza Hanif! 👋
 
 
 ## 🚀 About Me
