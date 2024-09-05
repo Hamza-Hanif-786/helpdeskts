@@ -39,12 +39,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Feedback
 
-If you have any feedback, please reach out to us at hamzahanif@teamx.global
-
-
-## Support
-
-For support, email hamzahanif@teamx.global or join our Slack channel.
+If you have any feedback, please reach out to us at hamzahanif1024@gmail.com
 
 
 ## License
